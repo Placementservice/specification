@@ -1,6 +1,6 @@
 "table": [
         {
-            "jur_oborud": "ТелекомГрупп Guardian ТЕСТ",
+            "jur_oborud": "ТелекомГрупп Guardian ТЕСТ ДВА",
             "jur_stat": "Зарезервировано (запрошено)",
             "jur_spos": "Не задано",
             "jur_visota": 5,
@@ -81,4 +81,5 @@
         }
 
     ]
+
 
