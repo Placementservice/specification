@@ -1,6 +1,6 @@
 "table": [
         {
-            "jur_oborud": "ТелекомГрупп Guardian ТЕСТ ДВА",
+            "jur_oborud": "ТелекомГрупп Guardian M OD MTS A5 AIR.1.0.1",
             "jur_stat": "Зарезервировано (запрошено)",
             "jur_spos": "Не задано",
             "jur_visota": 5,
@@ -79,7 +79,4 @@
             "spr_ves": null,
             "spr_tip": "Кабель"
         }
-
     ]
-
-
