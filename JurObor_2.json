@@ -1,9 +1,9 @@
 [
  {
-  "spr_oborud": "ЛАЛАЛА",
-  "spr_oborud1": "БЕБЕБЕ",
+  "spr_oborud": "Ericsson Mini-Link E (0.3m)",
+  "spr_oborud1": "Ericsson Mini-Link E (0.3m)",
   "spr_tip_num": "1",
-  "spr_tip": "Бнтенна РРА",
+  "spr_tip": "Антенна РРС",
   "spr_ves": 12.1,
   "spr_gabar": "Ø 382",
   "spr_port": "",
@@ -179,7 +179,7 @@
   "spr_oborud": "НТР NTSR-1G AWG 0.3",
   "spr_oborud1": "НТР NTSR-1G AWG 0.3",
   "spr_tip_num": "1",
-  "spr_tip": "Бнтенна РРС",
+  "spr_tip": "Антенна РРС",
   "spr_ves": 14.8,
   "spr_gabar": "Ø 395",
   "spr_port": "",
