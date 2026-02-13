@@ -70,7 +70,7 @@
   "spr_status": "Активная"
  },
  {
-  "spr_oborud": "Infinet Vector v70-39 (0.12m, линз.)",
+  "spr_oborud": "Infinet Vector v70-39 (0.12m, линз)",
   "spr_tip_num": "1",
   "spr_tip": "Антенна РРС",
   "spr_gabarit": "Ø 120",
@@ -677,6 +677,16 @@
   "spr_ves": 33.3,
   "spr_port": 8,
   "spr_plosch": 0.738,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Huawei AQU4518R23v06",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "1499 x 429 x 196",
+  "spr_ves": 33.5,
+  "spr_port": 8,
+  "spr_plosch": 0.643,
   "spr_status": "Активная"
  },
  {
@@ -3194,6 +3204,15 @@
   "spr_tip_num": "7",
   "spr_tip": "Кабель",
   "spr_gabarit": "",
+  "spr_ves": "",
+  "spr_port": "",
+  "spr_plosch": "",
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Отсутствует в справочнике",
+  "spr_tip": "нет данных",
+  "spr_gabarit": "0 x 0 x 0",
   "spr_ves": "",
   "spr_port": "",
   "spr_plosch": "",
