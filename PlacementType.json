@@ -1,0 +1,101 @@
+{
+ "id": "12",
+ "prevId": "12",
+ "duplicateResultWithPrevId": false,
+ "name": "Способ установки / прокладки",
+ "required": false,
+ "type": "dropdown",
+ "hint": "",
+ "isSystem": false,
+ "history": true,
+ "filterable": true,
+ "apiOnly": false,
+ "hidden": false,
+ "comment": "",
+ "config": {
+  "items": {
+   "1": {
+    "name": "Не задано",
+    "color": "DFE0E0",
+    "_cid": "45735ba8-f361-c655-1b3a-50d84bf4c1af",
+    "dbId": 1,
+    "id": "1",
+    "orderIndex": 1
+   },
+   "2": {
+    "name": "Кассетно (Ericsson)",
+    "color": "FFF2C4",
+    "_cid": "5a813d59-9066-ec8c-bb73-14a28fbb94ae",
+    "dbId": 2,
+    "id": "2",
+    "orderIndex": 4
+   },
+   "3": {
+    "name": "Стэком (Nokia)",
+    "color": "D0FBBF",
+    "_cid": "2588fe72-bd35-52fd-a8dd-6965a943ebc0",
+    "dbId": 3,
+    "id": "3",
+    "orderIndex": 5
+   },
+   "4": {
+    "name": "Комбинированно (Huawei)",
+    "color": "D5F5FF",
+    "_cid": "01ff28a1-61c9-6589-ad08-5071c71a82f5",
+    "dbId": 4,
+    "id": "4",
+    "orderIndex": 6
+   },
+   "5": {
+    "name": "Одиночно",
+    "color": "FDD9F0",
+    "_cid": "3310f501-3a8d-b79a-0f87-cd6a0f82b500",
+    "dbId": 5,
+    "id": "5",
+    "orderIndex": 2
+   },
+   "6": {
+    "name": "Внутри ОДН",
+    "color": "D0FBBF",
+    "_cid": "0d675995-a700-01d1-88b2-239a4531a10e",
+    "dbId": 6,
+    "id": "6",
+    "orderIndex": 7
+   },
+   "7": {
+    "name": "Снаружи ОДН",
+    "color": "F9C2C2",
+    "_cid": "bc6c1766-ec71-2717-c8e2-2cdc4f64e2af",
+    "dbId": 7,
+    "id": "7",
+    "orderIndex": 8
+   },
+   "8": {
+    "name": "В коробе",
+    "color": "E7D7FD",
+    "_cid": "4e968fa8-36d6-874b-3153-abde1f70cadc",
+    "dbId": 8,
+    "id": "8",
+    "orderIndex": 9
+   },
+   "9": {
+    "name": "Совмещённо",
+    "color": "D3E3FF",
+    "_cid": "82ce727b-6f30-d2bc-7b9e-8389036f100d",
+    "dbId": 9,
+    "id": "9",
+    "orderIndex": 3
+   }
+  },
+  "multiselect": false,
+  "type": "dropdown",
+  "defaultEmptyValue": [
+   "1"
+  ],
+  "defaultValue": true
+ },
+ "visible": {},
+ "formulaConfig": {},
+ "formulaType": null,
+ "orderIndex": 7
+}
