@@ -70,7 +70,7 @@
   "spr_status": "Активная"
  },
  {
-  "spr_oborud": "Infinet Vector v70-39 (0.12m, линз)",
+  "spr_oborud": "Infinet Vector v70-39 (0.12m, линз.)",
   "spr_tip_num": "1",
   "spr_tip": "Антенна РРС",
   "spr_gabarit": "Ø 120",
@@ -130,7 +130,7 @@
   "spr_status": "Активная"
  },
  {
-  "spr_oborud": "МАЯК-1000Е 0.385m",
+  "spr_oborud": "МАЯК-1000Е 0.3m",
   "spr_tip_num": "1",
   "spr_tip": "Антенна РРС",
   "spr_gabarit": "Ø 385",

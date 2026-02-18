@@ -15,7 +15,7 @@
  "config": {
   "items": {
    "1": {
-    "name": "Проектируемое_2",
+    "name": "Зарезервировано (проект.)",
     "color": "FFDBBC",
     "_cid": "55d0a33d-5cac-ed41-7d0f-e8dbff3188f3",
     "dbId": 1,
@@ -77,6 +77,14 @@
     "dbId": 8,
     "id": "8",
     "orderIndex": 8
+   },
+   "9": {
+    "name": "Перенесено",
+    "color": "D5F5FF",
+    "_cid": "e3ae8ead-6170-0ec5-1841-df07eaab67f8",
+    "dbId": 9,
+    "id": "9",
+    "orderIndex": 9
    },
    "10": {
     "name": "В развитии (резерв)",
