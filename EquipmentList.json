@@ -400,6 +400,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "FiberHome HXPM12XBBYYYY18065T2C",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "2200 x 320 x 140",
+  "spr_ves": 29.9,
+  "spr_port": 12,
+  "spr_plosch": 0.704,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "FiberHome HXPM20X22BBYYYYYY1618065T2C",
   "spr_tip_num": "2",
   "spr_tip": "Антенна панельная",
@@ -487,6 +497,16 @@
   "spr_ves": 10,
   "spr_port": 6,
   "spr_plosch": 0.268,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Huawei A02010CA01v06",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "500 x 260 x 60",
+  "spr_ves": 3.3,
+  "spr_port": 4,
+  "spr_plosch": 0.13,
   "spr_status": "Активная"
  },
  {
@@ -2547,6 +2567,16 @@
   "spr_ves": 30,
   "spr_port": "",
   "spr_plosch": 0.372,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Eltek Outdoor Cabinet Type 2 15U",
+  "spr_tip_num": "5",
+  "spr_tip": "Климатический шкаф",
+  "spr_gabarit": "743 x 596 x 586",
+  "spr_ves": 100,
+  "spr_port": "",
+  "spr_plosch": 0.443,
   "spr_status": "Активная"
  },
  {
