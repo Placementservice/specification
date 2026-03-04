@@ -240,6 +240,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Broadradio U2L2PX308.12P-DHH-C",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "1995 x 448 x 185",
+  "spr_ves": 53.3,
+  "spr_port": 12,
+  "spr_plosch": 0.894,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "Broadradio U2L4PX305.11P-DHH-E2-C",
   "spr_tip_num": "2",
   "spr_tip": "Антенна панельная",
@@ -1790,6 +1800,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Huawei RRU5529et (900)",
+  "spr_tip_num": "3",
+  "spr_tip": "Радиоблок",
+  "spr_gabarit": "400 x 300 x 150",
+  "spr_ves": 21,
+  "spr_port": 4,
+  "spr_plosch": 0.12,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "Huawei RRU5818 (2600)",
   "spr_tip_num": "3",
   "spr_tip": "Радиоблок",
@@ -1875,6 +1895,16 @@
   "spr_tip": "Радиоблок",
   "spr_gabarit": "400 x 300 x 150",
   "spr_ves": 22,
+  "spr_port": 4,
+  "spr_plosch": 0.12,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Huawei RRU5911 (2600)",
+  "spr_tip_num": "3",
+  "spr_tip": "Радиоблок",
+  "spr_gabarit": "400 x 300 x 120",
+  "spr_ves": 15,
   "spr_port": 4,
   "spr_plosch": 0.12,
   "spr_status": "Активная"
@@ -3007,6 +3037,16 @@
   "spr_ves": 27,
   "spr_port": "",
   "spr_plosch": 0.126,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Huawei DPU120D",
+  "spr_tip_num": "6",
+  "spr_tip": "Прочее (ЭС)",
+  "spr_gabarit": "400 x 300 x 120",
+  "spr_ves": 18,
+  "spr_port": "",
+  "spr_plosch": 0.12,
   "spr_status": "Активная"
  },
  {
