@@ -2810,6 +2810,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "ТДИ РГДМ.469674.019-03",
+  "spr_tip_num": "5",
+  "spr_tip": "Климатический шкаф",
+  "spr_gabarit": "1280 x 1143 x 850",
+  "spr_ves": 200,
+  "spr_port": "",
+  "spr_plosch": 1.463,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "ТДИ РГДМ.469674.028 Тип 5.1",
   "spr_tip_num": "5",
   "spr_tip": "Климатический шкаф",
