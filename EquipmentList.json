@@ -1090,6 +1090,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "ModTC D5-XI65-L154W16",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "1499 x 350 x 200",
+  "spr_ves": 26.5,
+  "spr_port": 10,
+  "spr_plosch": 0.525,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "ModTC D5-XI65-L154W18",
   "spr_tip_num": "2",
   "spr_tip": "Антенна панельная",
@@ -1710,6 +1720,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Huawei RRU5304w (2600)",
+  "spr_tip_num": "3",
+  "spr_tip": "Радиоблок",
+  "spr_gabarit": "400 x 300 x 150",
+  "spr_ves": 22,
+  "spr_port": 4,
+  "spr_plosch": 0.12,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "Huawei RRU5309 (800)",
   "spr_tip_num": "3",
   "spr_tip": "Радиоблок",
@@ -1886,6 +1906,16 @@
   "spr_gabarit": "400 x 300 x 100",
   "spr_ves": 15,
   "spr_port": 2,
+  "spr_plosch": 0.12,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Huawei RRU5910 (1800)",
+  "spr_tip_num": "3",
+  "spr_tip": "Радиоблок",
+  "spr_gabarit": "400 x 300 x 150",
+  "spr_ves": 22,
+  "spr_port": 4,
   "spr_plosch": 0.12,
   "spr_status": "Активная"
  },
@@ -2970,6 +3000,26 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Электра RT-CBN-T5.1",
+  "spr_tip_num": "5",
+  "spr_tip": "Климатический шкаф",
+  "spr_gabarit": "860 x 850 x 700",
+  "spr_ves": 180,
+  "spr_port": "",
+  "spr_plosch": 0.731,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Электра RT-CBN-T5.2",
+  "spr_tip_num": "5",
+  "spr_tip": "Климатический шкаф",
+  "spr_gabarit": "860 x 850 x 700",
+  "spr_ves": 180,
+  "spr_port": "",
+  "spr_plosch": 0.731,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "Энергомера ST-OU-T2-5.2-V-19",
   "spr_tip_num": "5",
   "spr_tip": "Климатический шкаф",
@@ -3087,6 +3137,16 @@
   "spr_ves": 19,
   "spr_port": "",
   "spr_plosch": 0.12,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Huawei IBBS50L",
+  "spr_tip_num": "6",
+  "spr_tip": "Прочее (ЭС)",
+  "spr_gabarit": "420 x 380 x 168",
+  "spr_ves": 28,
+  "spr_port": "",
+  "spr_plosch": 0.16,
   "spr_status": "Активная"
  },
  {

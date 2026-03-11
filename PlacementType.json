@@ -3,7 +3,7 @@
  "prevId": "12",
  "duplicateResultWithPrevId": false,
  "name": "Способ установки / прокладки",
- "required": false,
+ "required": true,
  "type": "dropdown",
  "hint": "",
  "isSystem": false,
