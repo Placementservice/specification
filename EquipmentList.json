@@ -3103,10 +3103,10 @@
   "spr_oborud": "Huawei DPU120D",
   "spr_tip_num": "6",
   "spr_tip": "Прочее (ЭС)",
-  "spr_gabarit": "400 x 300 x 120",
-  "spr_ves": 18,
+  "spr_gabarit": "420 x 300 x 120",
+  "spr_ves": 20,
   "spr_port": "",
-  "spr_plosch": 0.12,
+  "spr_plosch": 0.126,
   "spr_status": "Активная"
  },
  {
@@ -3287,6 +3287,26 @@
   "spr_ves": 10,
   "spr_port": "",
   "spr_plosch": 0.122,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "ЩУГ-7 (0,4кВ)",
+  "spr_tip_num": "6",
+  "spr_tip": "Прочее (ЭС)",
+  "spr_gabarit": "600 x 400 x 220",
+  "spr_ves": 15,
+  "spr_port": "",
+  "spr_plosch": 0.24,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "ЩУГ-8 (0,4кВ)",
+  "spr_tip_num": "6",
+  "spr_tip": "Прочее (ЭС)",
+  "spr_gabarit": "650 x 500 x 220",
+  "spr_ves": 15,
+  "spr_port": "",
+  "spr_plosch": 0.325,
   "spr_status": "Активная"
  },
  {

@@ -2,7 +2,7 @@
  "id": "8",
  "prevId": "8",
  "duplicateResultWithPrevId": false,
- "name": "Статус размещения",
+ "name": "Статус",
  "required": true,
  "type": "dropdown",
  "hint": "",
@@ -15,7 +15,7 @@
  "config": {
   "items": {
    "1": {
-    "name": "Проектируемое",
+    "name": "Проект",
     "color": "FFDBBC",
     "_cid": "55d0a33d-5cac-ed41-7d0f-e8dbff3188f3",
     "dbId": 1,
@@ -23,7 +23,7 @@
     "orderIndex": 1
    },
    "2": {
-    "name": "Проектируемое (демонт. в разв.)",
+    "name": "Проект (демонтаж в развитии)",
     "color": "FFF2C4",
     "_cid": "fc4b3a79-c046-2172-251c-a35a508135c6",
     "dbId": 2,
@@ -47,7 +47,7 @@
     "orderIndex": 4
    },
    "5": {
-    "name": "Размещено (демонт. в разв.)",
+    "name": "Размещено (демонтаж в развитии)",
     "color": "C9FDE5",
     "_cid": "519d5a2e-f2d7-d8aa-ca4b-e44f3b589cd3",
     "dbId": 5,
@@ -87,7 +87,7 @@
     "orderIndex": 7
    },
    "10": {
-    "name": "Развитие",
+    "name": "В развитии",
     "color": "E7D7FD",
     "_cid": "7f5483cf-5cb4-e99a-862e-88c6f0da63b4",
     "dbId": 10,
