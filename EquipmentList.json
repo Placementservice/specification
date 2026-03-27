@@ -210,6 +210,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Broadradio LLPX310P-DH2-2C",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "1380 x 320 x 140",
+  "spr_ves": 18.2,
+  "spr_port": 8,
+  "spr_plosch": 0.442,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "Broadradio LLPX310P2-DH2-2C",
   "spr_tip_num": "2",
   "spr_tip": "Антенна панельная",
@@ -2307,6 +2317,16 @@
   "spr_ves": 4.6,
   "spr_port": 6,
   "spr_plosch": 0.04,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "FiberHome FHTC-2300-2690-2-300M01/W (2300/2600)",
+  "spr_tip_num": "4",
+  "spr_tip": "Прочее (АФУ)",
+  "spr_gabarit": "288 x 165 x 121",
+  "spr_ves": 5.3,
+  "spr_port": 4,
+  "spr_plosch": 0.048,
   "spr_status": "Активная"
  },
  {
