@@ -800,6 +800,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Huawei ATD4516R5",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "1445 x 299 x 109",
+  "spr_ves": 21.2,
+  "spr_port": 8,
+  "spr_plosch": 0.432,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "Huawei ATR4516R0",
   "spr_tip_num": "2",
   "spr_tip": "Антенна панельная",
