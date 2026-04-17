@@ -1840,6 +1840,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Huawei RRU5526t (1800/2100/2600)",
+  "spr_tip_num": "3",
+  "spr_tip": "Радиоблок",
+  "spr_gabarit": "480 x 356 x 140",
+  "spr_ves": 25,
+  "spr_port": 4,
+  "spr_plosch": 0.171,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "Huawei RRU5529et (900)",
   "spr_tip_num": "3",
   "spr_tip": "Радиоблок",
@@ -3397,6 +3407,15 @@
   "spr_ves": "",
   "spr_port": "",
   "spr_plosch": "",
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Huawei 5517t (1800/2100/2600)",
+  "spr_tip": "нет данных",
+  "spr_gabarit": "520 x 480 x 140",
+  "spr_ves": 34,
+  "spr_port": 4,
+  "spr_plosch": 0.25,
   "spr_status": "Активная"
  },
  {
