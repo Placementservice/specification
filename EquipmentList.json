@@ -1420,6 +1420,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Tongyu T1004M3R013",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "2080 x 355 x 165",
+  "spr_ves": 37.4,
+  "spr_port": 10,
+  "spr_plosch": 0.738,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "Tongyu T1004S6R023",
   "spr_tip_num": "2",
   "spr_tip": "Антенна панельная",
@@ -1597,16 +1607,6 @@
   "spr_ves": 23.6,
   "spr_port": 8,
   "spr_plosch": 0.179,
-  "spr_status": "Активная"
- },
- {
-  "spr_oborud": "Huawei 5517t (1800/2100/2600)",
-  "spr_tip_num": "3",
-  "spr_tip": "Радиоблок",
-  "spr_gabarit": "520 x 480 x 140",
-  "spr_ves": 34,
-  "spr_port": 4,
-  "spr_plosch": 0.25,
   "spr_status": "Активная"
  },
  {
@@ -1827,6 +1827,16 @@
   "spr_ves": 25,
   "spr_port": 4,
   "spr_plosch": 0.171,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Huawei RRU5517t (1800/2100/2600)",
+  "spr_tip_num": "3",
+  "spr_tip": "Радиоблок",
+  "spr_gabarit": "520 x 480 x 140",
+  "spr_ves": 34,
+  "spr_port": 4,
+  "spr_plosch": 0.25,
   "spr_status": "Активная"
  },
  {
@@ -2846,7 +2856,7 @@
   "spr_gabarit": "1198 x 750 x 747",
   "spr_ves": 150,
   "spr_port": "",
-  "spr_plosch": 0.899,
+  "spr_plosch": 0.898,
   "spr_status": "Активная"
  },
  {
