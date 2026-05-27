@@ -63,10 +63,20 @@
   "spr_oborud": "InfiLINK Evolution E5-ST23",
   "spr_tip_num": "1",
   "spr_tip": "Антенна РРС",
-  "spr_gabarit": "Ø 344",
+  "spr_gabarit": "305 x 305 x 66",
   "spr_ves": 1.8,
   "spr_port": "",
   "spr_plosch": 0.093,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "InfiLINK Evolution E6-ST25",
+  "spr_tip_num": "1",
+  "spr_tip": "Антенна РРС",
+  "spr_gabarit": "350 x 350 x 72",
+  "spr_ves": 2.3,
+  "spr_port": "",
+  "spr_plosch": 0.123,
   "spr_status": "Активная"
  },
  {
@@ -77,6 +87,26 @@
   "spr_ves": 3.1,
   "spr_port": "",
   "spr_plosch": 0.058,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "IntracomTelecom UltraLink-GX-80 (0.2m)",
+  "spr_tip_num": "1",
+  "spr_tip": "Антенна РРС",
+  "spr_gabarit": "Ø 200",
+  "spr_ves": 7,
+  "spr_port": "",
+  "spr_plosch": 0.084,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "IntracomTelecom UltraLink-GX-80 (0.3m)",
+  "spr_tip_num": "1",
+  "spr_tip": "Антенна РРС",
+  "spr_gabarit": "Ø 300",
+  "spr_ves": 7,
+  "spr_port": "",
+  "spr_plosch": 0.084,
   "spr_status": "Активная"
  },
  {
@@ -2300,6 +2330,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Alcatel-Lucent 7705 SAR-W",
+  "spr_tip_num": "4",
+  "spr_tip": "Прочее (АФУ)",
+  "spr_gabarit": "381 x 254 x 66",
+  "spr_ves": 7.4,
+  "spr_port": "",
+  "spr_plosch": 0.097,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "Comba CM-KY2-OD4B (1800-2100/2300-2600)",
   "spr_tip_num": "4",
   "spr_tip": "Прочее (АФУ)",
@@ -2327,6 +2367,16 @@
   "spr_ves": 2,
   "spr_port": 2,
   "spr_plosch": 0.02,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Eltex Omni ALX19X-221051-00",
+  "spr_tip_num": "4",
+  "spr_tip": "Прочее (АФУ)",
+  "spr_gabarit": "237 x 125 x 50",
+  "spr_ves": 1,
+  "spr_port": "",
+  "spr_plosch": 0.03,
   "spr_status": "Активная"
  },
  {
@@ -2860,11 +2910,21 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "ТДИ (Интеркросс) РГДМ.301442.112",
+  "spr_tip_num": "5",
+  "spr_tip": "Климатический шкаф",
+  "spr_gabarit": "605 x 600 x 250",
+  "spr_ves": 400,
+  "spr_port": "",
+  "spr_plosch": 0.363,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "ТДИ (Интеркросс) РГДМ.ЕРЯА.301442.116",
   "spr_tip_num": "5",
   "spr_tip": "Климатический шкаф",
   "spr_gabarit": "795 x 609 x 330",
-  "spr_ves": 80,
+  "spr_ves": 40,
   "spr_port": "",
   "spr_plosch": 0.484,
   "spr_status": "Активная"
@@ -2887,6 +2947,16 @@
   "spr_ves": 200,
   "spr_port": "",
   "spr_plosch": 0.825,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "ТДИ РГДМ.469674.016",
+  "spr_tip_num": "5",
+  "spr_tip": "Климатический шкаф",
+  "spr_gabarit": "795 x 609 x 330",
+  "spr_ves": 40,
+  "spr_port": "",
+  "spr_plosch": 0.484,
   "spr_status": "Активная"
  },
  {
