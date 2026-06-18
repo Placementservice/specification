@@ -4,6 +4,7 @@
  "duplicateResultWithPrevId": false,
  "name": "Статус",
  "required": true,
+ "eventable": true,
  "type": "dropdown",
  "hint": "",
  "isSystem": false,
