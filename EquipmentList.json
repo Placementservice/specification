@@ -1450,6 +1450,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Tongyu T0026S6R012-A2",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "1499 x 469 x 198",
+  "spr_ves": 36.4,
+  "spr_port": 10,
+  "spr_plosch": 0.703031,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "Tongyu T1002S6R012",
   "spr_tip_num": "2",
   "spr_tip": "Антенна панельная",
@@ -1795,7 +1805,7 @@
   "spr_tip": "Радиоблок",
   "spr_gabarit": "480 x 356 x 140",
   "spr_ves": 25,
-  "spr_port": 8,
+  "spr_port": 9,
   "spr_plosch": 0.17088,
   "spr_status": "Активная"
  },
@@ -2733,7 +2743,7 @@
   "spr_oborud": "ССД МКО-П3/А-20SC",
   "spr_tip_num": "4",
   "spr_tip": "Прочее (АФУ)",
-  "spr_gabarit": "330 x 245 x 105",
+  "spr_gabarit": "330 x 245 x 108",
   "spr_ves": 1.9,
   "spr_port": 10,
   "spr_plosch": 0.08085,
@@ -3060,6 +3070,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "ТДИ РГДМ.469674.077",
+  "spr_tip_num": "5",
+  "spr_tip": "Климатический шкаф",
+  "spr_gabarit": "750 x 860 x 650",
+  "spr_ves": 150,
+  "spr_port": "",
+  "spr_plosch": 0.645,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "ТелекомГрупп Guardian M MF-21 15U",
   "spr_tip_num": "5",
   "spr_tip": "Климатический шкаф",
@@ -3367,6 +3387,16 @@
   "spr_ves": 25,
   "spr_port": "",
   "spr_plosch": 0.27552,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "ВРУ-1У-032-IP65 (0,4кВ)",
+  "spr_tip_num": "6",
+  "spr_tip": "Прочее (ЭС)",
+  "spr_gabarit": "1000 x 600 x 250",
+  "spr_ves": 20,
+  "spr_port": "",
+  "spr_plosch": 0.6,
   "spr_status": "Активная"
  },
  {
