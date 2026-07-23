@@ -1520,6 +1520,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Tongyu TQB-172718DEI-65FT2v01",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "1360 x 500 x 158",
+  "spr_ves": 28.4,
+  "spr_port": 8,
+  "spr_plosch": 0.68,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "Tongyu TQB-609016/T172718DEI-65FT2",
   "spr_tip_num": "2",
   "spr_tip": "Антенна панельная",
@@ -3147,6 +3157,26 @@
   "spr_ves": 140,
   "spr_port": "",
   "spr_plosch": 0.8855,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Технолига TCB-15U-NET-M2/PWM",
+  "spr_tip_num": "5",
+  "spr_tip": "Климатический шкаф",
+  "spr_gabarit": "860 x 785 x 709",
+  "spr_ves": 90,
+  "spr_port": "",
+  "spr_plosch": 0.6751,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Технолига TCB-15U-PWR-M2/PWM",
+  "spr_tip_num": "5",
+  "spr_tip": "Климатический шкаф",
+  "spr_gabarit": "860 x 785 x 709",
+  "spr_ves": 120,
+  "spr_port": "",
+  "spr_plosch": 0.6751,
   "spr_status": "Активная"
  },
  {
