@@ -970,6 +970,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Jiu Yao PM1242001",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "2180 x 396 x 190",
+  "spr_ves": 37.8,
+  "spr_port": 12,
+  "spr_plosch": 0.86328,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "MikroTik Cube 60G ac CubeG-5ac60ad",
   "spr_tip_num": "2",
   "spr_tip": "Антенна панельная",
@@ -1557,6 +1567,16 @@
   "spr_ves": 27.9,
   "spr_port": 6,
   "spr_plosch": 0.51475,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Телеконта TK12-521R",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "1340 x 450 x 145",
+  "spr_ves": 31.5,
+  "spr_port": 8,
+  "spr_plosch": 0.603,
   "spr_status": "Активная"
  },
  {
