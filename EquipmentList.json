@@ -3110,6 +3110,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "ТелекомГрупп GUARDIAN M МТS 26 15U K",
+  "spr_tip_num": "5",
+  "spr_tip": "Климатический шкаф",
+  "spr_gabarit": "783 x 863 x 650",
+  "spr_ves": 150,
+  "spr_port": "",
+  "spr_plosch": 0.675729,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "ТелекомГрупп Guardian M MF-21 15U",
   "spr_tip_num": "5",
   "spr_tip": "Климатический шкаф",
