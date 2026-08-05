@@ -410,6 +410,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Comba ODI-065R16M18JJJJ-Q-21",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "1800 x 498 x 180",
+  "spr_ves": 33,
+  "spr_port": 10,
+  "spr_plosch": 0.8964,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "Comba ODI2-065R16MJJ02-GQ V1",
   "spr_tip_num": "2",
   "spr_tip": "Антенна панельная",
@@ -3267,6 +3277,16 @@
   "spr_ves": 180,
   "spr_port": "",
   "spr_plosch": 0.731,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Энергомера ST-AK-60428-V-FP2",
+  "spr_tip_num": "5",
+  "spr_tip": "Климатический шкаф",
+  "spr_gabarit": "731 x 670 x 509",
+  "spr_ves": 150,
+  "spr_port": "",
+  "spr_plosch": 0.48977,
   "spr_status": "Активная"
  },
  {
