@@ -113,7 +113,7 @@
   "spr_oborud": "MikroTik LGH 60G",
   "spr_tip_num": "1",
   "spr_tip": "Антенна РРС",
-  "spr_gabarit": "Ø 391",
+  "spr_gabarit": "0 x 0 x 0",
   "spr_ves": 2.5,
   "spr_port": "",
   "spr_plosch": 0.1200724566,
@@ -237,6 +237,16 @@
   "spr_ves": 12,
   "spr_port": "",
   "spr_plosch": 0.2827433388,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Broadradio LLPX310P-2C",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "1280 x 280 x 90",
+  "spr_ves": 14.7,
+  "spr_port": 4,
+  "spr_plosch": 0.3584,
   "spr_status": "Активная"
  },
  {
@@ -457,6 +467,16 @@
   "spr_ves": 9,
   "spr_port": 4,
   "spr_plosch": 0.23548,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Ericsson AIR B? 6488 (????)",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "893 x 520 x 238",
+  "spr_ves": 62,
+  "spr_port": "",
+  "spr_plosch": 0.46436,
   "spr_status": "Активная"
  },
  {
@@ -776,6 +796,16 @@
   "spr_gabarit": "1499 x 429 x 196",
   "spr_ves": 32.3,
   "spr_port": 8,
+  "spr_plosch": 0.643071,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Huawei AQU4518R45v06",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "1499 x 429 x 196",
+  "spr_ves": 33.6,
+  "spr_port": 6,
   "spr_plosch": 0.643071,
   "spr_status": "Активная"
  },
@@ -1117,6 +1147,16 @@
   "spr_ves": 31,
   "spr_port": 8,
   "spr_plosch": 0.898,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "Mobi PW8IS-60408S4",
+  "spr_tip_num": "2",
+  "spr_tip": "Антенна панельная",
+  "spr_gabarit": "1385 x 265 x 144",
+  "spr_ves": 17.7,
+  "spr_port": 8,
+  "spr_plosch": 0.367025,
   "spr_status": "Активная"
  },
  {
@@ -2450,6 +2490,16 @@
   "spr_status": "Активная"
  },
  {
+  "spr_oborud": "Dahua DH-37A30-HNI-FX",
+  "spr_tip_num": "4",
+  "spr_tip": "Прочее (АФУ)",
+  "spr_gabarit": "307 x 190 x 190",
+  "spr_ves": 4.7,
+  "spr_port": "",
+  "spr_plosch": 0.05833,
+  "spr_status": "Активная"
+ },
+ {
   "spr_oborud": "Dawn R10217 (2600/2600)",
   "spr_tip_num": "4",
   "spr_tip": "Прочее (АФУ)",
@@ -3485,6 +3535,16 @@
   "spr_tip": "Прочее (ЭС)",
   "spr_gabarit": "600 x 400 x 220",
   "spr_ves": 10,
+  "spr_port": "",
+  "spr_plosch": 0.24,
+  "spr_status": "Активная"
+ },
+ {
+  "spr_oborud": "ЛинСети ЩР-1004-IP66 152.346.001633 (0,4кВ)",
+  "spr_tip_num": "6",
+  "spr_tip": "Прочее (ЭС)",
+  "spr_gabarit": "600 x 400 x 200",
+  "spr_ves": 12,
   "spr_port": "",
   "spr_plosch": 0.24,
   "spr_status": "Активная"
